@@ -11,17 +11,17 @@ mobsPerFaction: 0
 attackMobs: true
 
 # Prevent mobs from damaging friendly players and mobs
-noFriendlyFire: true
+noFriendlyFire: false
 
 # Prevent players from damaging mobs on the same team
 # Players cannot damage mobs on allied teams regardless
-noPlayerFriendlyFire: true
+noPlayerFriendlyFire: false
 
 # Minimum rank required in order to spawn units, you can choose from 'RECRUIT', 'MEMBER' (NORMAL), 'OFFICER' (MODERATOR) and 'LEADER' (ADMIN).
 minRankToSpawn: MEMBER
 
 # Can only spawn mobs while on owned land
-onlySpawnInTerritory: true
+onlySpawnInTerritory: false
 
 # Attacking a member or unit will agro their nearby allied units
 alertAllies: true
